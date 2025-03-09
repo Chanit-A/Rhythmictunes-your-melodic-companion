@@ -48,4 +48,4 @@ During this project, I gained hands-on experience with:
 ✅ Axios & API Integration - Fetching music data from external sources.
 ✅ State Management - Using React Context API for data handling.
 ✅ Error Handling - Managing API requests efficiently.
-✅ Git & GitHub - Version control and collaborative development
+✅ Git & GitHub -Version control and collaborative development
