@@ -44,8 +44,13 @@ Git & GitHub - For version control and collaboration.
 
 During this project, I gained hands-on experience with:
 ✅ React.js - Component-based UI development.
+
 ✅ React Router - Implementing smooth navigation.
+
 ✅ Axios & API Integration - Fetching music data from external sources.
+
 ✅ State Management - Using React Context API for data handling.
+
 ✅ Error Handling - Managing API requests efficiently.
+
 ✅ Git & GitHub -Version control and collaborative development
